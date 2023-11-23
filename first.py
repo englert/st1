@@ -1,4 +1,4 @@
 
 import streamlit as st
 
-st.write('Hello, *Woooooooorld!* :sunglasses:')
+st.write('Hello, Emberek!* :sunglasses:')
